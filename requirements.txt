@@ -1,0 +1,22 @@
+# Banqi (Chinese Dark Chess) vs AI - Requirements
+# 
+# This game uses only Python standard library modules.
+# tkinter is included with most Python installations.
+# 
+# If you encounter issues with tkinter, install it using:
+# 
+# On Ubuntu/Debian:
+# sudo apt-get install python3-tk
+# 
+# On CentOS/RHEL/Fedora:
+# sudo yum install tkinter
+# or
+# sudo dnf install python3-tkinter
+# 
+# On macOS (if using Homebrew):
+# brew install python-tk
+# 
+# On Windows:
+# tkinter should be included with Python installation
+# 
+# No additional pip packages required for basic functionality.
