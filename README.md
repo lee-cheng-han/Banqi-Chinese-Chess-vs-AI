@@ -2,7 +2,7 @@
 
 A Python implementation of Banqi (Chinese Dark Chess) with an AI opponent. Play the classic Chinese board game against an intelligent computer opponent with multiple difficulty levels.
 
-[![Banqi Game Screenshot](screenshot.png)](https://github.com/lee-cheng-han/Banqi-Chinese-Chess-vs-AI/blob/31bb3bfbd97ec5b1079ab14ec913d312081c70cb/demo.png)
+[![image](https://github.com/user-attachments/assets/ac405c2d-cfee-4bf9-94ae-7906b8d1de01)](https://github.com/lee-cheng-han/Banqi-Chinese-Chess-vs-AI/blob/main/demo.png?raw=true)
 
 ## Features
 
